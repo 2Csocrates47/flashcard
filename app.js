@@ -1,3 +1,5 @@
+//Arthur Araujo Ferreira Lopes 2C 20.11.2024//
+
 function criaCartao(categoria, pergunta, resposta) {
     let container = document.getElementById('container')
     let cartao = document.createElement('article')
