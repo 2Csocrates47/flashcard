@@ -1,3 +1,5 @@
+//Arthur Araujo Ferreira Lopes 2C 20.11.2024//
+
 criaCartao(
     'esporte',
     'O que é saque?',
